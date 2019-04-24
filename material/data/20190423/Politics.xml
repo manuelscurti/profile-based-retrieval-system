@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Politics</title>
+    <link>https://www.nytimes.com/pages/politics/index.html?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/Politics.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2019  The New York Times Company</copyright>
+    <lastBuildDate>Tue, 23 Apr 2019 16:40:40 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; Politics</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/pages/politics/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>On Census Citizenship Question, Supreme Court’s Conservatives Appear United</title>
+      <link>https://www.nytimes.com/2019/04/23/us/politics/supreme-court-census-citizenship.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/23/us/politics/supreme-court-census-citizenship.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/23/us/politics/supreme-court-census-citizenship.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/23/us/politics/23dc-scotus/23dc-scotus-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>A naturalization ceremony last summer at the John F. Kennedy Presidential Library in Boston.</media:description>
+      <media:credit>Brian Snyder/Reuters</media:credit>
+      <description>Adding the question, government experts said, could depress participation in the census and affect how congressional seats are allocated.</description>
+      <dc:creator>ADAM LIPTAK</dc:creator>
+      <pubDate>Tue, 23 Apr 2019 16:30:35 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Citizenship and Naturalization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Census</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Redistricting and Reapportionment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Voting Rights Act (1965)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Commerce Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gorsuch, Neil M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ross, Wilbur L Jr</category>
+    </item>
+    <item>
+      <title>Moore’s Columns Deriding Women Raise New Questions for Trump Fed Pick</title>
+      <link>https://www.nytimes.com/2019/04/23/us/politics/stephen-moore-women.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/23/us/politics/stephen-moore-women.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/23/us/politics/stephen-moore-women.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/23/us/politics/23dc-Moore-01/23dc-Moore-01-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Stephen Moore of The Heritage Foundation is a likely nominee by President Trump for the Federal Reserve Board.</media:description>
+      <media:credit>Tom Williams/CQ Roll Call</media:credit>
+      <description>Stephen Moore’s past columns and appearances contain potential roadblocks to confirmation — including a history of writing about women in unflattering terms.</description>
+      <dc:creator>JIM TANKERSLEY</dc:creator>
+      <pubDate>Tue, 23 Apr 2019 16:09:12 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cain, Herman</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gidley, Hogan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carlson, Tucker</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moore, Stephen (1960- )</category>
+    </item>
+    <item>
+      <title>Pelosi Urges Caution on Impeachment as Some Democrats Push to Begin</title>
+      <link>https://www.nytimes.com/2019/04/22/us/politics/impeaching-trump-pelosi.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/22/us/politics/impeaching-trump-pelosi.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/22/us/politics/impeaching-trump-pelosi.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/22/us/politics/22dc-dems-01/22dc-dems-01-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Speaker Nancy Pelosi said in a letter to colleagues that it was clear Mr. Trump had “engaged in highly unethical and unscrupulous behavior which does not bring honor to the office he holds.”</media:description>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <description>A letter and a conference call by Speaker Nancy Pelosi appeared intended to shore up support for the investigations already begun rather than impeachment proceedings.</description>
+      <dc:creator>NICHOLAS FANDOS</dc:creator>
+      <pubDate>Tue, 23 Apr 2019 00:59:19 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Constitution (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Impeachment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelosi, Nancy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McGahn, Donald F II</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barr, William P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mueller, Robert S III</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nadler, Jerrold</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">House Committee on the Judiciary</category>
+    </item>
+    <item>
+      <title>As McGahn Emerges as Chief Witness in the Mueller Report, Trump and Allies Ramp Up Attacks</title>
+      <link>https://www.nytimes.com/2019/04/22/us/politics/mcgahn-trump-attacks.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/22/us/politics/mcgahn-trump-attacks.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/22/us/politics/mcgahn-trump-attacks.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/22/us/politics/22DC-MCGAHN/22DC-MCGAHN-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Trump’s personal lawyers are attacking the credibility of Donald F. McGahn II, the former White House counsel and a chief witness in the Russia investigation, in an effort to undermine the special counsel’s report.</media:description>
+      <media:credit>Erin Schaff for The New York Times</media:credit>
+      <description>The president’s lawyers have attacked the former White House counsel since Robert Mueller released his report on whether the president obstructed justice.</description>
+      <dc:creator>MICHAEL S. SCHMIDT</dc:creator>
+      <pubDate>Tue, 23 Apr 2019 01:04:55 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">House Committee on the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Giuliani, Rudolph W</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Special Prosecutors (Independent Counsel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McGahn, Donald F II</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mueller, Robert S III</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>Trump Will Not Release Tax Returns to Congress, Spokesman Says</title>
+      <link>https://www.nytimes.com/2019/04/23/us/politics/trump-tax-returns-deadline.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/23/us/politics/trump-tax-returns-deadline.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/23/us/politics/trump-tax-returns-deadline.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/24/business/24dc-trumptaxes/24dc-trumptaxes-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Trump will not comply with a Tuesday deadline set by House Democrats to release his tax returns to Congress, according to the White House.</media:description>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <description>A spokesman for the president signaled a deadline set by House Democrats to release six years’ worth of returns would not be met.</description>
+      <dc:creator>ALAN RAPPEPORT</dc:creator>
+      <pubDate>Tue, 23 Apr 2019 16:33:43 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Taxes (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Trump Tax Returns</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Tax Evasion</category>
+    </item>
+    <item>
+      <title>M.J. Hegar, Veteran Armed With Viral Ads, Is Running for Senate in Texas</title>
+      <link>https://www.nytimes.com/2019/04/23/us/politics/mj-hegar-cornyn-senate.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/23/us/politics/mj-hegar-cornyn-senate.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/23/us/politics/mj-hegar-cornyn-senate.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/23/us/politics/23Hegar/23Hegar-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>M.J. Hegar, left, at a campaign event in Georgetown, Texas, in September.</media:description>
+      <media:credit>Suzanne Cordeiro/Agence France-Presse — Getty Images</media:credit>
+      <description>A former Air Force helicopter pilot who narrowly lost a bid for the House in November will challenge Senator John Cornyn, a Republican, in 2020.</description>
+      <dc:creator>CATIE EDMONDSON</dc:creator>
+      <pubDate>Tue, 23 Apr 2019 15:59:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cornyn, John</category>
+    </item>
+    <item>
+      <title>The Big Money Challenge Awaiting Joe Biden in the 2020 Race</title>
+      <link>https://www.nytimes.com/2019/04/23/us/politics/joe-biden-2020-fundraising.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/23/us/politics/joe-biden-2020-fundraising.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/23/us/politics/joe-biden-2020-fundraising.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/22/us/politics/00bidenmoney1/00bidenmoney1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Joseph R. Biden Jr. does not have an at-the-ready list of grass-roots contributors to ply for small donations.</media:description>
+      <media:credit>Mark Makela for The New York Times</media:credit>
+      <description>Mr. Biden, ahead in the polls but behind financially, is seeking out top money bundlers, but that risks a backlash among grass-roots Democrats.</description>
+      <dc:creator>SHANE GOLDMACHER</dc:creator>
+      <pubDate>Tue, 23 Apr 2019 14:01:31 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Campaign Finance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">American Possibilities</category>
+    </item>
+    <item>
+      <title>Trump’s State Visit to Britain, Long Delayed, Now Has a Date</title>
+      <link>https://www.nytimes.com/2019/04/23/world/europe/uk-trump-state-visit.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/23/world/europe/uk-trump-state-visit.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/23/world/europe/uk-trump-state-visit.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/23/world/23uk-trump/23uk-trump-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Queen Elizabeth II greeted President Trump at Windsor Castle, England, in July.</media:description>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <description>Queen Elizabeth II formally invited the American leader to a three-day visit in June, when events for the 75th anniversary of D-Day will be held.</description>
+      <dc:creator>PALKO KARASZ</dc:creator>
+      <pubDate>Tue, 23 Apr 2019 12:43:53 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">May, Theresa M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Buckingham Palace</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+    </item>
+    <item>
+      <title>Political Memo: Joe Biden Looms, but Bernie Sanders Is Running His Own Race</title>
+      <link>https://www.nytimes.com/2019/04/23/us/politics/bernie-sanders-biden-2020.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/23/us/politics/bernie-sanders-biden-2020.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/23/us/politics/bernie-sanders-biden-2020.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/17/us/00sandersmidwest-1/00sandersmidwest-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Senator Bernie Sanders of Vermont spoke at a rally in Pittsburgh last week. He is running his own race, even as former Vice President Joseph Biden looms as a rival.</media:description>
+      <media:credit>Maddie McGarvey for The New York Times</media:credit>
+      <description>The Vermont senator has been the front-runner in early campaigning, but Mr. Biden’s expected entry could change that. Mr. Sanders is not likely to care.</description>
+      <dc:creator>SYDNEY EMBER</dc:creator>
+      <pubDate>Tue, 23 Apr 2019 11:31:39 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanders, Bernard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+    </item>
+    <item>
+      <title>Democrats Court a New Voting Bloc: People Who Don’t Own Homes</title>
+      <link>https://www.nytimes.com/2019/04/23/upshot/2020-democrats-court-renters.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/23/upshot/2020-democrats-court-renters.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/23/upshot/2020-democrats-court-renters.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/19/upshot/up-housing1/up-housing1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Elizabeth Warren campaigning in Las Vegas. She has said the housing crisis won’t be solved by “nibbling at the edges.”</media:description>
+      <media:credit>John Locher/Associated Press</media:credit>
+      <description>Renters have finally gotten Washington’s attention. Can anyone running for president help them?</description>
+      <dc:creator>EMILY BADGER</dc:creator>
+      <pubDate>Tue, 23 Apr 2019 09:00:05 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Renting and Leasing (Real Estate)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warren, Elizabeth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Booker, Cory A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Affordable Housing</category>
+    </item>
+    <item>
+      <title>On Politics: Pelosi Cautions on Impeachment</title>
+      <link>https://www.nytimes.com/2019/04/23/us/politics/nancy-pelosi-trump-impeachment.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/23/us/politics/nancy-pelosi-trump-impeachment.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/23/us/politics/nancy-pelosi-trump-impeachment.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <description>Speaker Nancy Pelosi said to colleagues that it was clear President Trump had engaged in behavior “which does not bring honor to the office he holds.”</description>
+      <dc:creator/>
+      <pubDate>Tue, 23 Apr 2019 05:35:18 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+    </item>
+    <item>
+      <title>Kamala Harris Proposes Executive Orders on Gun Control</title>
+      <link>https://www.nytimes.com/2019/04/22/us/politics/kamala-harris-gun-control.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/22/us/politics/kamala-harris-gun-control.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/22/us/politics/kamala-harris-gun-control.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/22/us/22harris2/22harris2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Senator Kamala Harris of California speaking in Atlanta last month. On Monday she named several actions on gun control that she would take if elected president.</media:description>
+      <media:credit>Audra Melton for The New York Times</media:credit>
+      <description>Ms. Harris pledged to implement measures that have long failed to pass in Congress, including mandatory background checks and regulations on manufacturers.</description>
+      <dc:creator>ASTEAD W. HERNDON</dc:creator>
+      <pubDate>Tue, 23 Apr 2019 14:39:52 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Firearms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Executive Orders and Memorandums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
+    </item>
+    <item>
+      <title>Highlights From 5 Candidates at CNN Town Halls</title>
+      <link>https://www.nytimes.com/2019/04/22/us/politics/cnn-town-hall-highlights.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/22/us/politics/cnn-town-hall-highlights.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/22/us/politics/cnn-town-hall-highlights.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/22/us/politics/22townhallmoments-top/908a1779c9da4e51964ea1cc19d23439-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>From left, Amy Klobuchar, Bernie Sanders, Kamala Harris, Pete Buttigieg and Elizabeth Warren participated in a set of town halls hosted by CNN on Monday night.</media:description>
+      <media:credit>From left, Sarah Rice for The New York Times, Gabriela Bhaskar for The New York Times, Elizabeth Frantz for The New York Times, Audra Melton for The New York Times, Elijah Nouvelage/Reuters</media:credit>
+      <description>Bernie Sanders backed voting rights for people now in jail, including the Boston Marathon bomber, while Pete Buttigieg disagreed and Kamala Harris said, “I think we should have that conversation.”</description>
+      <dc:creator>SYDNEY EMBER, ASTEAD W. HERNDON and ALEXANDER BURNS</dc:creator>
+      <pubDate>Tue, 23 Apr 2019 13:37:34 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Klobuchar, Amy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warren, Elizabeth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanders, Bernard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Buttigieg, Pete (1982- )</category>
+    </item>
+    <item>
+      <title>At a White House Tradition, Politics Color Everything but the Easter Eggs</title>
+      <link>https://www.nytimes.com/2019/04/22/us/politics/white-house-easter-egg-roll.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/22/us/politics/white-house-easter-egg-roll.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/22/us/politics/white-house-easter-egg-roll.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/22/us/politics/22dc-trump-2/22dc-trump-2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Trump and Melania Trump, the first lady, led several rounds of the annual White House Egg Roll.</media:description>
+      <media:credit>Sarah Silbiger/The New York Times</media:credit>
+      <description>The Easter Egg Roll bore the hallmarks of holidays under President Trump, including not just the usual festivities but also exchanges about decapitation, impeachment and the wall.</description>
+      <dc:creator>KATIE ROGERS</dc:creator>
+      <pubDate>Mon, 22 Apr 2019 22:45:25 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Easter and Holy Week</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">White House Building (Washington, DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Eggs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Border Barriers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanders, Sarah Huckabee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mueller, Robert S III</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Immigration and Emigration</category>
+    </item>
+    <item>
+      <title>Trump Speaks About Sri Lanka and Impeachment at Easter Egg Roll</title>
+      <link>https://www.nytimes.com/video/us/politics/100000006473114/trump-easter-egg-roll-impeachment.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/us/politics/100000006473114/trump-easter-egg-roll-impeachment.html</guid>
+      <description>President Trump spoke to reporters about the Sri Lanka attacks and the possibility of impeachment, while hundreds of children celebrated the holiday at the White House Easter Egg Roll.</description>
+      <dc:creator/>
+      <pubDate>Mon, 22 Apr 2019 22:45:22 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/des">White House Building (Washington, DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Sri Lanka Easter Bombings (April, 2019)</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Impeachment</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Easter and Holy Week</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/mdes">United States Politics and Government</category>
+    </item>
+    <item>
+      <title>On Politics With Lisa Lerer: Who’s the Jeb of the 2020 Race?</title>
+      <link>https://www.nytimes.com/2019/04/22/us/politics/on-politics-jeb-2020.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/22/us/politics/on-politics-jeb-2020.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/22/us/politics/on-politics-jeb-2020.html?partner=rss&amp;emc=rss"/>
+      <description>In the On Politics newsletter: Democrats hoping to avoid Jeb Bush’s 2016 fate are finding themselves in familiar political minefields.</description>
+      <dc:creator>MATT FLEGENHEIMER</dc:creator>
+      <pubDate>Tue, 23 Apr 2019 04:03:48 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bush, Jeb</category>
+    </item>
+    <item>
+      <title>Democrats Seek Young Voters, and the Memes That Move Them</title>
+      <link>https://www.nytimes.com/2019/04/22/us/politics/youth-voters-2020.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/22/us/politics/youth-voters-2020.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/22/us/politics/youth-voters-2020.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/19/us/politics/00youngvoters2/merlin_153491376_c404586a-23c2-4601-83d7-e1585f874941-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A young supporter of Senator Bernie Sanders at a rally in Warren, Mich., this month. </media:description>
+      <media:credit>Brittany Greeson for The New York Times</media:credit>
+      <description>Democratic 2020 hopefuls have taken note of the potential power of millennial and Generation Z voters. But effectively reaching them is the hard part.</description>
+      <dc:creator>ISABELLA GRULLÓN PAZ</dc:creator>
+      <pubDate>Tue, 23 Apr 2019 16:34:20 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Millennial Generation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Generation Z</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Voting and Voters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Buttigieg, Pete (1982- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Booker, Cory A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanders, Bernard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warren, Elizabeth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yang, Andrew (1975- )</category>
+    </item>
+    <item>
+      <title>Social Security and Medicare Funds Face Insolvency, Report Finds</title>
+      <link>https://www.nytimes.com/2019/04/22/us/politics/social-security-medicare-insolvency.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/22/us/politics/social-security-medicare-insolvency.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/22/us/politics/social-security-medicare-insolvency.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/22/us/politics/22dc-deficit/merlin_153126852_39bf4918-e800-4157-bd2b-e656f4a80254-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Medicare’s hospital insurance fund is expected to be depleted in 2026 — the same date that was projected a year ago.</media:description>
+      <media:credit>Rugile Kaladyte for The New York Times</media:credit>
+      <description>The social safety net programs are fraying as baby boomers age, the trustees of Social Security and Medicare said, but a political fix seems far away.</description>
+      <dc:creator>ALAN RAPPEPORT</dc:creator>
+      <pubDate>Mon, 22 Apr 2019 22:30:10 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Budget (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disability Insurance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Social Security (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Medicare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
+    </item>
+    <item>
+      <title>Global Wealth Gap Would Be Smaller Today Without Climate Change, Study Finds</title>
+      <link>https://www.nytimes.com/2019/04/22/climate/climate-change-global-wealth-gap.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/22/climate/climate-change-global-wealth-gap.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/22/climate/climate-change-global-wealth-gap.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/19/science/19CLI-econ-3/merlin_150659892_731bb644-2e9c-4755-a2b5-c4445d329051-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A market in Abuja, the Nigerian capital. Africa’s  most populous country, Nigeria would have been 29 percent richer without climate change, a new study has estimated.</media:description>
+      <media:credit>Nwakalor Kenechukwu for The New York Times</media:credit>
+      <description>Most of the world’s poor countries are poorer than they would have been had greenhouse gas emissions not altered the climate. In some rich countries, it's the opposite.</description>
+      <dc:creator>SOMINI SENGUPTA</dc:creator>
+      <pubDate>Tue, 23 Apr 2019 03:45:14 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nigeria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Norway</category>
+    </item>
+    <item>
+      <title>Joe Biden Plans to Close Foundation When He Enters 2020 Race</title>
+      <link>https://www.nytimes.com/2019/04/22/us/politics/joe-biden-foundation-president.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/22/us/politics/joe-biden-foundation-president.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/22/us/politics/joe-biden-foundation-president.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/23/us/politics/23bidenfoundation/23bidenfoundation-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Former Vice President Joseph R. Biden Jr. and his wife Jill formed the Biden Foundation, a nonprofit group, after he left office.</media:description>
+      <media:credit>Michael Dwyer/Associated Press</media:credit>
+      <description>Seeking to avoid conflict-of-interest concerns, the former vice president plans to shutter the Biden Foundation after joining the presidential campaign.</description>
+      <dc:creator>ALEXANDER BURNS</dc:creator>
+      <pubDate>Mon, 22 Apr 2019 18:17:36 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+    </item>
+    <item>
+      <title>Nonfiction: Two Early Presidents Who Questioned the Wisdom of ‘the People’</title>
+      <link>https://www.nytimes.com/2019/04/22/books/review/nancy-isenberg-andrew-burstein-the-problem-of-democracy.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/22/books/review/nancy-isenberg-andrew-burstein-the-problem-of-democracy.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/22/books/review/nancy-isenberg-andrew-burstein-the-problem-of-democracy.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <description>In “The Problem of Democracy,” Nancy Isenberg and Andrew Burstein show that John and John Quincy Adams were skeptical of popular democracy.</description>
+      <dc:creator>VIRGINIA DeJOHN ANDERSON</dc:creator>
+      <pubDate>Mon, 22 Apr 2019 17:17:39 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitution (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adams, John (1735-1826)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adams, John Quincy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jackson, Andrew</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Problem of Democracy (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Isenberg, Nancy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burstein, Andrew</category>
+    </item>
+  </channel>
+</rss>

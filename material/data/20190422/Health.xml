@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Health</title>
+    <link>https://www.nytimes.com/section/health?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/Health.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2019  The New York Times Company</copyright>
+    <lastBuildDate>Mon, 22 Apr 2019 21:00:37 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; Health</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/health?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>The Giants at the Heart of the Opioid Crisis</title>
+      <link>https://www.nytimes.com/2019/04/22/health/opioids-lawsuits-distributors.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/22/health/opioids-lawsuits-distributors.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/22/health/opioids-lawsuits-distributors.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/10/science/00OPIOID1/00OPIOID1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The headquarters of McKesson Corporation, the drug distributing giant, in San Francisco.</media:description>
+      <media:credit>Anastasiia Sapon for The New York Times</media:credit>
+      <description>Civil suits filed by three states accuse pharmaceutical distributors of flooding the country with opioids while devising systems to evade regulators.</description>
+      <dc:creator>DANNY HAKIM, WILLIAM K. RASHBAUM and RONI CARYN RABIN</dc:creator>
+      <pubDate>Mon, 22 Apr 2019 06:30:08 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Opioids and Opiates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">OxyContin (Drug)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Attorneys General</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">AmerisourceBergen Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Cardinal Health Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">McKesson Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Rochester Drug Cooperative</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Health Department (NYS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vermont</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (State)</category>
+    </item>
+    <item>
+      <title>Hospitals Stand to Lose Billions Under ‘Medicare for All’</title>
+      <link>https://www.nytimes.com/2019/04/21/health/medicare-for-all-hospitals.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/21/health/medicare-for-all-hospitals.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/21/health/medicare-for-all-hospitals.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/17/science/17Hospitals-1/17Hospitals-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Proponents held up signs as Senator Bernie Sanders introduced the Medicare for All bill in Washington this month.</media:description>
+      <media:credit>Aaron P. Bernstein/Reuters</media:credit>
+      <description>Private insurance pays hospitals much more than the federal government does for patient care. If Medicare for all means Medicare rates, expect an industry backlash.</description>
+      <dc:creator>REED ABELSON</dc:creator>
+      <pubDate>Sun, 21 Apr 2019 19:18:14 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">American Hospital Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jayapal, Pramila</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanders, Bernard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Senate</category>
+    </item>
+    <item>
+      <title>A Vicious, Untreatable Killer Leaves China Guessing</title>
+      <link>https://www.nytimes.com/2019/04/22/business/china-pigs-african-swine-fever.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/22/business/china-pigs-african-swine-fever.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/22/business/china-pigs-african-swine-fever.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/23/business/23chinapigs1/00chinapigs-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Wangaofa Animal Husbandry Development Company had to cull thousands of pigs this year after an outbreak of African swine fever. The facility now sits empty, its hallways splattered white with disinfecting lime.</media:description>
+      <media:credit>Raymond Zhong</media:credit>
+      <description>African swine fever, which harms pigs but not humans, has swept across the country, the world’s largest pork producer. And those are only the cases the government knows about.</description>
+      <dc:creator>RAYMOND ZHONG and AILIN TANG</dc:creator>
+      <pubDate>Mon, 22 Apr 2019 20:23:21 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pigs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shandong Province (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Livestock Diseases</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Pork</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Livestock</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Swine Influenza</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Epidemics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Meat</category>
+    </item>
+    <item>
+      <title>Personal Health: Should You Be Eating Eggs?</title>
+      <link>https://www.nytimes.com/2019/04/22/well/eat/should-you-be-eating-eggs.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/22/well/eat/should-you-be-eating-eggs.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/22/well/eat/should-you-be-eating-eggs.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/23/science/23BRODYEGGS/23BRODYEGGS-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Gracia Lam</media:credit>
+      <description>Do eggs raise your cholesterol? The advice keeps changing.</description>
+      <dc:creator>JANE E. BRODY</dc:creator>
+      <pubDate>Mon, 22 Apr 2019 13:23:26 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Eggs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cholesterol</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Heart</category>
+    </item>
+    <item>
+      <title>Wary of Chinese Espionage, Houston Cancer Center Chose to Fire 3 Scientists</title>
+      <link>https://www.nytimes.com/2019/04/22/health/md-anderson-chinese-scientists.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/22/health/md-anderson-chinese-scientists.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/22/health/md-anderson-chinese-scientists.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/21/us/21xp-espionage/21xp-espionage-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The MD Anderson Cancer Center said it decided to fire three scientists who, among other allegations, failed to disclose international collaborators. Two of them resigned.</media:description>
+      <media:credit>Scott Dalton for The New York Times</media:credit>
+      <description>The director of the National Institutes of Health said that 55 similar investigations into possible foreign exploitation of American research are happening nationwide.</description>
+      <dc:creator>MIHIR ZAVERI</dc:creator>
+      <pubDate>Mon, 22 Apr 2019 09:00:07 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Institutes of Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">University of Texas M D Anderson Cancer Center</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Houston (Tex)</category>
+    </item>
+    <item>
+      <title>Well : Why Does Exercise Guard Against Cancer? Inflammation May Play a Role</title>
+      <link>https://www.nytimes.com/2019/04/22/well/move/why-does-exercise-guard-against-cancer-inflammation-may-play-a-role.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/22/well/move/why-does-exercise-guard-against-cancer-inflammation-may-play-a-role.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/22/well/move/why-does-exercise-guard-against-cancer-inflammation-may-play-a-role.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <description>How exercise guards against colon cancer and other types of cancer remains a mystery.</description>
+      <dc:creator>GRETCHEN REYNOLDS</dc:creator>
+      <pubDate>Mon, 22 Apr 2019 09:00:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Exercise</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colon and Colorectal Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
+    </item>
+    <item>
+      <title>This Genetic Mutation Makes People Feel Full — All the Time</title>
+      <link>https://www.nytimes.com/2019/04/18/health/genetics-weight-obesity.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/18/health/genetics-weight-obesity.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/18/health/genetics-weight-obesity.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/18/science/18SCI-OBESITY-3/18SCI-OBESITY-3-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Mutations in the MC4R gene usually lead to obesity by preventing a sense of fullness. But one such mutation leaves people uninterested in eating, scientists report.</media:description>
+      <media:credit>Susan Wright for The New York Times</media:credit>
+      <description>Two new studies confirm that weight control is often the result of genetics, not willpower.</description>
+      <dc:creator>GINA KOLATA</dc:creator>
+      <pubDate>Thu, 18 Apr 2019 23:55:16 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Obesity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weight</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">DNA (Deoxyribonucleic Acid)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Cambridge University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kaplan, Lee M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kathiresan, Sekar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Cell (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Farooqi, Sadaf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wareham, Nick J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+    </item>
+    <item>
+      <title>In India, a Renewed Fight Against Leprosy</title>
+      <link>https://www.nytimes.com/2019/04/17/health/leprosy-india-disease.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/17/health/leprosy-india-disease.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/17/health/leprosy-india-disease.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/23/science/00LEPROSY1/00LEPROSY1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The hands of Bodhe Annasuya, 45, who acquired leprosy when she was 12 years old. She lives in Balaji Nagar, a leprosy colony, with her husband and adopted son, in Hyderabad, India.</media:description>
+      <media:credit>Saumya Khandelwal for The New York Times</media:credit>
+      <description>Health workers thought they had vanquished the disease in 2005. But it lived on, cloaked in stigma and medical mystery.</description>
+      <dc:creator>APOORVA MANDAVILLI</dc:creator>
+      <pubDate>Fri, 19 Apr 2019 21:53:12 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Leprosy (Hansen's Disease)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disabilities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Bacteria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Skin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Tuberculosis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">London School of Hygiene and Tropical Medicine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">World Health Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+    </item>
+    <item>
+      <title>Senator McConnell, a Tobacco Ally, Supports Raising Age to Buy Cigarettes</title>
+      <link>https://www.nytimes.com/2019/04/18/health/mcconnell-tobacco-vaping-21.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/18/health/mcconnell-tobacco-vaping-21.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/18/health/mcconnell-tobacco-vaping-21.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/18/science/18tobacco-1/merlin_149946375_ffd38d5f-aa3d-4c70-9868-a9db2d965482-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Leading lawmakers are gathering support for legislation at the federal and state levels to curtail sales of tobacco and vaping products to young adults.</media:description>
+      <media:credit>Jose Luis Gonzalez/Reuters</media:credit>
+      <description>Seeking re-election to a seventh term, the senator cited the rise in teenage vaping as a reason to curtail sales of tobacco and other products.</description>
+      <dc:creator>SHEILA KAPLAN</dc:creator>
+      <pubDate>Fri, 19 Apr 2019 16:15:35 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smoking and Tobacco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McConnell, Mitch</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Cigarettes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Juul Labs Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Reynolds, R J, Tobacco Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Altria Group Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+    </item>
+    <item>
+      <title>Skipping Breakfast May Increase Stroke and Heart Risks</title>
+      <link>https://www.nytimes.com/2019/04/22/well/eat/skipping-breakfast-may-increase-stroke-and-heart-risks.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/22/well/eat/skipping-breakfast-may-increase-stroke-and-heart-risks.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/22/well/eat/skipping-breakfast-may-increase-stroke-and-heart-risks.html?partner=rss&amp;emc=rss"/>
+      <description>Eating breakfast could be a simple way to promote cardiovascular health, one researcher says.</description>
+      <dc:creator>NICHOLAS BAKALAR</dc:creator>
+      <pubDate>Mon, 22 Apr 2019 18:00:00 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heart</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cholesterol</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stroke</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Journal of the American College of Cardiology</category>
+    </item>
+    <item>
+      <title>At War: The Military Wants Better Tests for PTSD. Speech Analysis Could Be the Answer.</title>
+      <link>https://www.nytimes.com/2019/04/22/magazine/veterans-ptsd-speech-analysis.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/22/magazine/veterans-ptsd-speech-analysis.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/22/magazine/veterans-ptsd-speech-analysis.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/22/magazine/22atwar-ptsdvoice/22atwar-ptsdvoice-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Dr. Charles Marmar, one of the authors of the study, looking at veterans’ brain scans in 2013.</media:description>
+      <media:credit>Richard Perry/The New York Times</media:credit>
+      <description>Using computerized voice analysis, a new study found 18 features of speech that identify markers of PTSD in veterans.</description>
+      <dc:creator>DAVE PHILIPPS</dc:creator>
+      <pubDate>Mon, 22 Apr 2019 14:00:06 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Post-Traumatic Stress Disorder</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Veterans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Voice Recognition Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">SRI International</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Depression and Anxiety (Journal)</category>
+    </item>
+    <item>
+      <title>The New Health Care: What Can the U.S. Health System Learn From Singapore?</title>
+      <link>https://www.nytimes.com/2019/04/22/upshot/singapore-health-system-lessons.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/22/upshot/singapore-health-system-lessons.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/22/upshot/singapore-health-system-lessons.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/22/upshot/22up-health-sing2/merlin_150873420_d4301b8e-b0cf-4492-9dfd-1583d92a6ad6-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Tourists pass the glass dome of the Gardens by the Bay in Singapore.</media:description>
+      <media:credit>Roslan Rahman/Agence France-Presse — Getty Images</media:credit>
+      <description>Americans argue over insurance while Singaporeans keep perfecting the delivery of care.</description>
+      <dc:creator>AARON E. CARROLL</dc:creator>
+      <pubDate>Mon, 22 Apr 2019 09:00:02 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Singapore</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+    </item>
+    <item>
+      <title>The Checkup: The Search for a Biomarker for Early Autism Diagnosis</title>
+      <link>https://www.nytimes.com/2019/04/22/well/family/the-search-for-a-biomarker-for-early-autism-diagnosis.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/22/well/family/the-search-for-a-biomarker-for-early-autism-diagnosis.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/22/well/family/the-search-for-a-biomarker-for-early-autism-diagnosis.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/22/well/family/22klass-autism/22klass-autism-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>iStock</media:credit>
+      <description>Children with autism spectrum disorder took significantly longer to look away from a video when their names were called, a new study found.</description>
+      <dc:creator>PERRI KLASS, M.D.</dc:creator>
+      <pubDate>Mon, 22 Apr 2019 09:00:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Autism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Therapy and Rehabilitation</category>
+    </item>
+    <item>
+      <title>Travel Tips: How to Protect Yourself From Air Pollution While Traveling</title>
+      <link>https://www.nytimes.com/2019/04/21/travel/air-pollution-face-masks-aqi.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/21/travel/air-pollution-face-masks-aqi.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/21/travel/air-pollution-face-masks-aqi.html?partner=rss&amp;emc=rss"/>
+      <description>Poor air quality is a growing problem for travelers headed abroad. Here’s how to read up before you go, and protect yourself once you’re there.</description>
+      <dc:creator>HAHNA YOON</dc:creator>
+      <pubDate>Mon, 22 Apr 2019 20:44:23 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Masks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Protective Clothing and Gear</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Sunscreen</category>
+    </item>
+    <item>
+      <title>Before Fisher-Price’s Rock ’n Play Recall, Safety Fears and Dubious Marketing</title>
+      <link>https://www.nytimes.com/2019/04/19/business/fisher-price-recall.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/19/business/fisher-price-recall.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/19/business/fisher-price-recall.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/22/business/22-SLEEPER-PRINT/00SLEEPER-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Fisher-Price issued a recall for its Rock ’n Play sleeper this month after it was linked to multiple infant deaths.</media:description>
+      <media:credit>Consumer Product Safety Commission, via Associated Press</media:credit>
+      <description>The company knew for years about potential risks linked to its popular sleeper and about pediatricians’ objections to the way the product was being pitched to parents.</description>
+      <dc:creator>TIFFANY HSU</dc:creator>
+      <pubDate>Fri, 19 Apr 2019 22:18:45 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cribs (Baby Beds)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sudden Infant Death Syndrome</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Babies and Infants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Recalls and Bans of Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Consumer Protection</category>
+    </item>
+    <item>
+      <title>Strategies: ‘Medicare for All’ Is Hammering Health Care Stocks. For Now.</title>
+      <link>https://www.nytimes.com/2019/04/19/business/medicare-for-all-health-care-stocks.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/19/business/medicare-for-all-health-care-stocks.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/19/business/medicare-for-all-health-care-stocks.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/21/business/21SBN_Strategies1/merlin_153575130_371ed313-79e7-45cb-ac89-3cbd86fee9b3-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Senator Bernie Sanders at a Fox News Town Hall on April 15. Mr. Sanders has been a prominent supporter of a “Medicare for All” health insurance program.</media:description>
+      <media:credit>Mark Makela/Getty Images</media:credit>
+      <description>The popularity of proposals for a government-run, single-payer system among Democratic presidential candidates has hurt health care stocks, despite their strong earnings.</description>
+      <dc:creator>JEFF SOMMER</dc:creator>
+      <pubDate>Fri, 19 Apr 2019 17:46:17 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Medicare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">UnitedHealth Group Inc</category>
+    </item>
+    <item>
+      <title>Ask Well: How Low Should Blood Pressure Go?</title>
+      <link>https://www.nytimes.com/2019/04/19/well/live/how-low-should-blood-pressure-go.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/19/well/live/how-low-should-blood-pressure-go.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/19/well/live/how-low-should-blood-pressure-go.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/23/well/ask-blood-pressure/ask-blood-pressure-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Stephane Mahe/Reuters</media:credit>
+      <description>Symptoms, rather than numbers, may best define when blood pressure is too low.</description>
+      <dc:creator>RICHARD KLASCO, M.D.</dc:creator>
+      <pubDate>Fri, 19 Apr 2019 17:23:21 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Blood Pressure</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+    </item>
+    <item>
+      <title>Commuting While Pregnant: A Long Ride Could Be a Risky One</title>
+      <link>https://www.nytimes.com/2019/04/19/health/pregnancy-maternity-leave-paid.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/19/health/pregnancy-maternity-leave-paid.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/19/health/pregnancy-maternity-leave-paid.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/19/us/19IHW-pregnancy-illustration/19IHW-pregnancy-illustration-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Alexis Jang</media:credit>
+      <description>Traveling 50 or more miles to and from work may negatively affect unborn babies, a new study suggests.</description>
+      <dc:creator>MAYA SALAM</dc:creator>
+      <pubDate>Fri, 19 Apr 2019 15:00:00 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Paid Time Off</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Family Leaves</category>
+    </item>
+    <item>
+      <title>Here’s Soylent’s New Product. It’s Food.</title>
+      <link>https://www.nytimes.com/2019/04/18/style/soylent-squared-food-bars.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/18/style/soylent-squared-food-bars.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/18/style/soylent-squared-food-bars.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/21/fashion/18soylent1/18soylent1-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>The three varietals of Soylent Squared.</media:description>
+      <media:credit>Patricia Wall/The New York Times</media:credit>
+      <description>The Silicon Valley food-drink of choice is now a ‘complete nutrition platform.’ The beverage plot thickens.</description>
+      <dc:creator>JONAH ENGEL BROMWICH and JOHN HERRMAN</dc:creator>
+      <pubDate>Fri, 19 Apr 2019 22:30:00 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Rosa Labs LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Innovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-selfcare</category>
+    </item>
+    <item>
+      <title>Living With Cancer: The Lifesaving Power in Stem Cells</title>
+      <link>https://www.nytimes.com/2019/04/18/well/live/the-lifesaving-power-in-stem-cells.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/18/well/live/the-lifesaving-power-in-stem-cells.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/18/well/live/the-lifesaving-power-in-stem-cells.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/18/well/family/18gubar-stem/18gubar-stem-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Dr. Hal Broxmeyer at Indiana University with the containers used to ship cryopreserved cord blood for Matthew Farrow, the first cord blood transplant patient in 1988, and other early recipients of sibling cord blood transplants.</media:description>
+      <media:credit>Scott Cooper</media:credit>
+      <description>Liars and thieves should not be allowed to detract from legitimate scientific research that has made umbilical cord blood mystic in its regenerative powers.</description>
+      <dc:creator>SUSAN GUBAR</dc:creator>
+      <pubDate>Thu, 18 Apr 2019 12:06:26 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stem Cells</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Blood Donation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bone Marrow</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transplants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Leukemia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Pregnancy and Childbirth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Health Insurance and Managed Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Broxmeyer, Hal E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Indiana University</category>
+    </item>
+    <item>
+      <title>Prostate Drugs May Raise Diabetes Risk</title>
+      <link>https://www.nytimes.com/2019/04/18/well/live/prostate-drugs-may-raise-diabetes-risk.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/18/well/live/prostate-drugs-may-raise-diabetes-risk.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/18/well/live/prostate-drugs-may-raise-diabetes-risk.html?partner=rss&amp;emc=rss"/>
+      <description>Proscar and Avodart, prescribed for an enlarged prostate, were tied to an increased risk of Type 2 diabetes.</description>
+      <dc:creator>NICHOLAS BAKALAR</dc:creator>
+      <pubDate>Thu, 18 Apr 2019 09:00:02 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diabetes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prostate Gland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+    </item>
+    <item>
+      <title>The Right Way to Use a Public Bathroom (to Avoid Getting Sick)</title>
+      <link>https://www.nytimes.com/2019/04/17/smarter-living/using-public-bathrooms.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/17/smarter-living/using-public-bathrooms.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/17/smarter-living/using-public-bathrooms.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/03/18/smarter-living/18sl-bathrooms/18sl-bathrooms-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>iStock</media:credit>
+      <description>The odds of becoming ill from using a public bathroom are slim. But there are a few things you can do to minimize your risk even more. Here’s what to keep in mind.</description>
+      <dc:creator>MELINDA WENNER MOYER</dc:creator>
+      <pubDate>Wed, 17 Apr 2019 21:30:06 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bathrooms and Toilets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hygiene and Cleanliness</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Bacteria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Urinary Tract</category>
+    </item>
+    <item>
+      <title>Dr. Richard Green, 82, Dies; Challenged Psychiatry’s View of Homosexuality</title>
+      <link>https://www.nytimes.com/2019/04/17/obituaries/dr-richard-green-dead.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/17/obituaries/dr-richard-green-dead.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/17/obituaries/dr-richard-green-dead.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/19/books/review/19Green/merlin_153608307_0eed0be4-1d43-4290-a8eb-c4f5b6911c67-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Dr. Richard Green in an undated photo. In 1972, he defied the advice of colleagues and wrote a paper in The International Journal of Psychiatry questioning “the premise that homosexuality is a disease or a homosexual is inferior.”</media:description>
+      <media:credit>via Green Family</media:credit>
+      <description>At a time when being gay was classified as a mental disorder, Dr. Green defied the advice of his colleagues and took a professional risk by arguing otherwise.</description>
+      <dc:creator>BENEDICT CAREY</dc:creator>
+      <pubDate>Thu, 18 Apr 2019 15:33:20 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Green, Richard P (1936-2019)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychiatry and Psychiatrists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Transgender and Transsexuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Deaths (Obituaries)</category>
+    </item>
+    <item>
+      <title>Deadly germs, lost cures: How a Chicago Woman Fell Victim to Candida Auris, a Drug-Resistant Fungus</title>
+      <link>https://www.nytimes.com/2019/04/17/health/candida-auris-fungus-chicago.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/17/health/candida-auris-fungus-chicago.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/17/health/candida-auris-fungus-chicago.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/16/science/00AURIS1/00AURIS1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Stephanie Spoor, center, with her husband, Gregory, left, during a bedside wedding ceremony of her son, Zack, to his new wife, Carley (right), at Northwestern Memorial Hospital in Chicago. Ms. Spoor died just a few days later.</media:description>
+      <media:credit>Spoor family photo</media:credit>
+      <description>The mysterious infection has appeared at hospitals around the world, but few institutions or families have discussed their experience.</description>
+      <dc:creator>MATT RICHTEL</dc:creator>
+      <pubDate>Thu, 18 Apr 2019 10:00:07 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Candida Auris (Fungus)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Resistance (Microbial)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Infections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Fungi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chicago (Ill)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Northwestern Memorial Hospital (Chicago, Ill)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+    </item>
+    <item>
+      <title>Trilobites: Look What the Cat Dragged In: Parasites</title>
+      <link>https://www.nytimes.com/2019/04/17/science/cats-outdoors-viruses.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/17/science/cats-outdoors-viruses.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/17/science/cats-outdoors-viruses.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/23/science/17tb-cats/17tb-cats-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Cats can contract parasites from insects, prey, soil or other animals and can spread them to humans, pets or wildlife.</media:description>
+      <media:credit>Mark Makela for The New York Times</media:credit>
+      <description>Researchers found that house cats that roam outdoors were more likely to pick up diseases than indoor cats.</description>
+      <dc:creator>JOANNA KLEIN</dc:creator>
+      <pubDate>Wed, 17 Apr 2019 17:47:47 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cats</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Abuse, Rights and Welfare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parasites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Biology Letters (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chalkowski, Kayleigh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+    </item>
+    <item>
+      <title>‘Partly Alive’: Scientists Revive Cells in Brains From Dead Pigs</title>
+      <link>https://www.nytimes.com/2019/04/17/science/brain-dead-pigs.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/17/science/brain-dead-pigs.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/17/science/brain-dead-pigs.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/18/science/18Brain-print2/17Brain-2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Neurons (green), astrocytes (red), and cell nuclei (blue) in the brains of pigs. On left, brain tissue left untreated for 10 hours after death; right, brain tissue subjected to the experiment.</media:description>
+      <media:credit>Stefano G. Daniele and Zvonimir Vrselja, Yale School of Medicine</media:credit>
+      <description>In a study that upends assumptions about brain death, researchers brought some cells back to life — or something like it.</description>
+      <dc:creator>GINA KOLATA</dc:creator>
+      <pubDate>Thu, 18 Apr 2019 20:19:29 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Brain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Animal Abuse, Rights and Welfare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Institutes of Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Nature (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Yale University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Farahany, Nita A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+    </item>
+    <item>
+      <title>Stress Tied to Heart Disease, Especially in People Under 50</title>
+      <link>https://www.nytimes.com/2019/04/17/well/mind/stress-tied-to-heart-disease-especially-in-people-under-50.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/17/well/mind/stress-tied-to-heart-disease-especially-in-people-under-50.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/17/well/mind/stress-tied-to-heart-disease-especially-in-people-under-50.html?partner=rss&amp;emc=rss"/>
+      <description>Someone with a stress disorder was 37 percent more likely to develop cardiovascular disease than those in the general population.</description>
+      <dc:creator>NICHOLAS BAKALAR</dc:creator>
+      <pubDate>Wed, 17 Apr 2019 16:48:03 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Post-Traumatic Stress Disorder</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heart</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
+    </item>
+    <item>
+      <title>Generation Grandparent: Anna Quindlen’s ‘Life in the 60s’</title>
+      <link>https://www.nytimes.com/2019/04/17/well/family/anna-quindlens-life-in-the-60s.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/17/well/family/anna-quindlens-life-in-the-60s.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/17/well/family/anna-quindlens-life-in-the-60s.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/17/smarter-living/17span-quindlen/17span-quindlen-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Sara Naomi Lewkowicz for The New York Times</media:credit>
+      <description>A Bubbe and a Nana share the joys of grandparenting: “This is the closest we get to immortality, right?”</description>
+      <dc:creator>PAULA SPAN</dc:creator>
+      <pubDate>Wed, 17 Apr 2019 16:37:37 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grandparents</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Quindlen, Anna</category>
+    </item>
+    <item>
+      <title>Phys Ed: 10 Years After an Exercise Study, Benefits Persist</title>
+      <link>https://www.nytimes.com/2019/04/17/well/move/10-years-after-an-exercise-study-benefits-persist.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/17/well/move/10-years-after-an-exercise-study-benefits-persist.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/17/well/move/10-years-after-an-exercise-study-benefits-persist.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/16/well/physed-jogging/physed-jogging-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Getty Images</media:credit>
+      <description>The benefits of exercise may last longer than many of us might expect.</description>
+      <dc:creator>GRETCHEN REYNOLDS</dc:creator>
+      <pubDate>Wed, 17 Apr 2019 09:00:03 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Exercise</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diabetes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Insulin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Weight</category>
+    </item>
+    <item>
+      <title>Stanford Clears Professor of Helping With Gene-Edited Babies Experiment</title>
+      <link>https://www.nytimes.com/2019/04/16/health/stanford-gene-editing-babies.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/16/health/stanford-gene-editing-babies.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/16/health/stanford-gene-editing-babies.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/16/science/16STANFORD1/00QUAKE1b-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Stephen Quake, a professor of biotechnology at Stanford University.</media:description>
+      <media:credit>Anastasiia Sapon for The New York Times</media:credit>
+      <description>Stephen Quake and two colleagues were found to have followed proper scientific protocol in their interactions with the Chinese researcher who did the work.</description>
+      <dc:creator>PAM BELLUCK</dc:creator>
+      <pubDate>Tue, 16 Apr 2019 21:44:03 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Quake, Stephen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">He Jiankui</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Stanford University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Genetic Engineering</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Babies and Infants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">In Vitro Fertilization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+    </item>
+    <item>
+      <title>F.D.A. Halts U.S. Sales of Pelvic Mesh, Citing Safety Concerns for Women</title>
+      <link>https://www.nytimes.com/2019/04/16/health/vaginal-pelvic-mesh-fda.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/16/health/vaginal-pelvic-mesh-fda.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2019/04/16/health/vaginal-pelvic-mesh-fda.html?partner=rss&amp;emc=rss"/>
+      <description>Boston Scientific and Coloplast were the last two companies selling the medical devices, which have resulted in nearly $8 billion in settlements.</description>
+      <dc:creator>SHEILA KAPLAN and MATTHEW GOLDSTEIN</dc:creator>
+      <pubDate>Wed, 17 Apr 2019 01:41:42 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pelvis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medical Devices</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Surgery and Surgeons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Boston Scientific Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Coloplast Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Food and Drug Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">transvaginal mesh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">pelvic organ prolapse</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+    </item>
+    <item>
+      <title>Employee Wellness Programs Yield Little Benefit, Study Shows</title>
+      <link>https://www.nytimes.com/2019/04/16/health/employee-wellness-programs.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/16/health/employee-wellness-programs.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/16/health/employee-wellness-programs.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/16/science/16SCI-WELLNESS/16SCI-WELLNESS-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Researchers followed thousands of BJ’s Wholesale Club employees for a year to monitor the effects of wellness programs. Although many who enrolled in the programs reported exercising more often and eating more healthfully, the study did not find significant medical care savings.</media:description>
+      <media:credit>Mel Evans/Associated Press</media:credit>
+      <description>A rigorous new study calls into question whether workplace wellness programs can quickly save employers money on health care bills.</description>
+      <dc:creator>REED ABELSON</dc:creator>
+      <pubDate>Tue, 16 Apr 2019 18:11:06 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Productivity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Workplace Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Employee Fringe Benefits</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">BJ's Wholesale Club Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Exercise</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Journal of the American Medical Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Baicker, Katherine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Song, Zirui</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+    </item>
+    <item>
+      <title>Don’t Count on 23andMe to Detect Most Breast Cancer Risks, Study Warns</title>
+      <link>https://www.nytimes.com/2019/04/16/health/23andme-brca-gene-testing.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/16/health/23andme-brca-gene-testing.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/16/health/23andme-brca-gene-testing.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/10/health/10xp-23andme1/10xp-23andme1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>More than 10 million people have signed up for 23andMe. Many are initially drawn in by ancestry data, but later opt in for health risk tests.</media:description>
+      <media:credit>George Frey/Reuters</media:credit>
+      <description>The DNA testing company, which has 10 million customers, misses nearly 90 percent of people with risky BRCA mutations. It says the criticism is overblown.</description>
+      <dc:creator>HEATHER MURPHY</dc:creator>
+      <pubDate>Tue, 16 Apr 2019 20:48:21 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Breast Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">DNA (Deoxyribonucleic Acid)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ovarian Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">23andMe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Promethease (SNPedia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">InVitae Corporation</category>
+    </item>
+    <item>
+      <title>Nonfiction: A Psychotherapist Analyzes Her Patients’ Stories — and Her Own</title>
+      <link>https://www.nytimes.com/2019/04/16/books/review/lori-gottlieb-maybe-you-should-talk-to-someone.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/16/books/review/lori-gottlieb-maybe-you-should-talk-to-someone.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/16/books/review/lori-gottlieb-maybe-you-should-talk-to-someone.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/11/books/review/00Kuczynski/00Kuczynski-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The psychotherapist Lori Gottlieb draws on her patients’ stories, and her own, in her new memoir.</media:description>
+      <media:credit>Magdalena Wosinska for The New York Times</media:credit>
+      <description>Lori Gottlieb’s “Maybe You Should Talk to Someone: A Therapist, Her Therapist, and Our Lives Revealed” is a treasure trove of stories and hard-earned advice.</description>
+      <dc:creator>ALEX KUCZYNSKI</dc:creator>
+      <pubDate>Tue, 16 Apr 2019 09:00:09 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gottlieb, Lori</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Maybe You Should Talk to Someone: A Therapist, HER Therapist, and Our Lives Revealed (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
+    </item>
+    <item>
+      <title>Parents Mourning Stillbirth Follow Familiar Patterns on YouTube</title>
+      <link>https://www.nytimes.com/2019/04/16/well/family/parents-mourning-stillbirth-follow-familiar-patterns-on-youtube.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/04/16/well/family/parents-mourning-stillbirth-follow-familiar-patterns-on-youtube.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/04/16/well/family/parents-mourning-stillbirth-follow-familiar-patterns-on-youtube.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2019/04/15/well/family/00stillbirth/00stillbirth-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>“I think without the video it may have been more difficult for people to comprehend that she was here,” Kaytee Fisher said of her daughter, Elliott Rose.</media:description>
+      <media:credit>Brian Fisher</media:credit>
+      <description>Over the course of about 15 years, a researcher says, YouTube has become a kind of virtual cemetery for parents experiencing stillbirth.</description>
+      <dc:creator>CHRISTINE RO</dc:creator>
+      <pubDate>Tue, 16 Apr 2019 09:00:03 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stillbirth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Grief (Emotion)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Social Media</category>
+    </item>
+  </channel>
+</rss>
