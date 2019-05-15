@@ -4,6 +4,7 @@ For instance, let us suppose that we have 4 different users: the first one being
 After developing a classification model for news articles, two possible use cases were proposed:
 1. Profile-Driven Search Engine for News Articles
 2. Profile-Based Newsletter  
+
 Below you will find a short overview. However, you can find all the needed informations in the report.
 
 ## Profile-Driven Search Engine for News Articles
